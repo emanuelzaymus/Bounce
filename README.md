@@ -34,7 +34,6 @@ Hra končí ak hráč stratí všetky životy alebo úspešne prejde všetkých 
 ![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez05.JPG)
 ![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez06.JPG)
 ![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez07.JPG)
-![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez08.JPG)
 ![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez09.JPG)
 ![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez10.JPG)
 ![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez11.JPG)
