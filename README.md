@@ -1,4 +1,4 @@
-# Návod na hru BOUNCE 2
+# BOUNCE 2
 
 ## Popis
 
@@ -24,8 +24,7 @@ môže hráč stlačiť krížik v pravom hornom rohu okna.
 Hra končí ak hráč stratí všetky životy alebo úspešne prejde všetkých dvanásť levelov.
 
 ### Verzia:
-2017/09/21
-
+2017/09/21 (verzia 2)
 
 
 ![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez01.JPG)
