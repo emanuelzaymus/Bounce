@@ -25,3 +25,20 @@ Hra končí ak hráč stratí všetky životy alebo úspešne prejde všetkých 
 
 ### Verzia:
 2017/09/21
+
+
+
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez01.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez02.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez03.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez05.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez06.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez07.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez08.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez09.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez10.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez11.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez12.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez13.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez14.JPG)
+![img](https://github.com/emanuelzaymus/Bounce/blob/master/readme_imgs/Bounce_prez15.JPG)
