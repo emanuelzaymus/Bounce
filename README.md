@@ -23,7 +23,7 @@ môže hráč stlačiť krížik v pravom hornom rohu okna.
 
 Hra končí ak hráč stratí všetky životy alebo úspešne prejde všetkých dvanásť levelov.
 
-### Verzia:
+### Verzia
 2017/09/21 (verzia 2)
 
 
